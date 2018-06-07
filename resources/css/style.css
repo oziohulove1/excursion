@@ -1,21 +1,30 @@
 *{
   background-color: black;
+  text-align: center;
+  font-family: "Verdana";
 }
 
 h1 {
-  font-family: "Verdana";
+
   font-weight: normal;
   font-size: 50px;
   color:white;
-  text-align: center;
 }
 
 .app_link{
   color:aquamarine;
   font-size: 16px;
-  text-align: center;
 }
 
 a:link{
   color:aquamarine;
+}
+
+video{
+  object-fit: contain;
+}
+
+.personal_guide{
+  font-size: 21px;
+  color: gray;
 }
