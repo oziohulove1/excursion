@@ -1,7 +1,21 @@
+*{
+  background-color: black;
+}
+
 h1 {
   font-family: "Verdana";
   font-weight: normal;
   font-size: 50px;
-  color: White;
+  color:white;
   text-align: center;
+}
+
+.app_link{
+  color:aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+a:link{
+  color:aquamarine;
 }
