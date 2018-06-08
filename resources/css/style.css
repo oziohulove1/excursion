@@ -5,10 +5,19 @@
 }
 
 h1 {
-
-  font-weight: normal;
-  font-size: 50px;
   color:white;
+  font-weight: normal;
+}
+
+h1.introduction{
+
+  font-size: 50px;
+}
+
+h1.guide{
+  font-weight: 300;
+  font-size: 42px;
+
 }
 
 .app_link{
@@ -27,4 +36,9 @@ video{
 .personal_guide{
   font-size: 21px;
   color: gray;
+}
+
+.trademark{
+  color: gray;
+  text-align:right;;
 }
